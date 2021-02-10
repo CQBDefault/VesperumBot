@@ -27,3 +27,6 @@ domain = cqb.default
 # WARNING
 If in post there are several images, bot will send text in first post, images — in second.
 The bot works very bad with reposts, everything will be sent in turn.
+
+P.S.
+Предупреждаю, бот написан хуй пойми как.
